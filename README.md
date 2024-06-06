@@ -3,7 +3,7 @@ An official implementation code for paper "Spatio-Temporal Co-Attention Fusion N
 This repo will provide <B>codes, trained weights, and our training datasets</B>. 
 
 ## Network Architecture
-<center> <img src="fig/Framework.png" alt="architecture"/> </center>
+<center> <img src="fig/framework.png" alt="architecture"/> </center>
 
 ## Usage of SCFNet
 1. Configure the environment according to requirements.txt.
