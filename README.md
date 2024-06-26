@@ -1,5 +1,5 @@
 ## Spatio-Temporal Co-Attention Fusion Network for Video Splicing Localization
-An official implementation code for paper "Spatio-Temporal Co-Attention Fusion Network for Video Splicing Localization".
+An official implementation code for paper "Spatio-Temporal Co-Attention Fusion Network for Video Splicing Localization", JEI 2024.
 This repo will provide <B>codes, trained weights, and our training datasets</B>. 
 
 ## Network Architecture
