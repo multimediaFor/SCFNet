@@ -229,15 +229,8 @@ if __name__ == '__main__':
     args.epoch_resume=12
     args.num_works = 16
 
-    # first pretrain on YouTube-VOS (pretrain = True).
-    # max_epoch all sets to 25.
     pretrain = False
-
-    # then train on davis dataset (pretrain = False)
-    # epoch_resume set to miou and uncomment the following two lines.
-    # args.resume = True
-    # args.epoch_resume = 0.6513122544336745 # miou
-
+    
    # os.environ["CUDA_VISIBLE_DEVICES"] = '0,1'
     torch.cuda.manual_seed(args.seed)
 
