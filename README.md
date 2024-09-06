@@ -1,10 +1,13 @@
 ## Spatio-Temporal Co-Attention Fusion Network for Video Splicing Localization
 An official implementation code for paper "[Spatio-Temporal Co-Attention Fusion Network for Video Splicing Localization](https://caps.luminad.com:8443/stockage/stock/SPIE/LDL-SPIE-JEI-240106G/JEI-240106G_online.pdf)", JEI 2024.
-This repo will provide <B>codes, trained weights, and our training datasets</B>. 
+This repo will provide <B>codes, trained weights, and our training dataset</B>. 
 
 ## Network Architecture
 <center> <img src="fig/framework.png" alt="architecture"/> </center>
 
+## Dataset
+- Download the training frames from
+[Baiduyun Link](https://pan.baidu.com/s/1-PjE7zjz9_M7eL1ymt2QmA) (extract code: y4vy).
  
 ## Training
 - Prepare for the training datasets.
